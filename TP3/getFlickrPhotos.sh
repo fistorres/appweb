@@ -1,0 +1,1 @@
+curl "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=4938655d9b8952f697d44e94d3c89200&text=Asthma&per_page=10&privacy_filter=1" | xmllint -xpath '//photo' -| sed 's/\/></\n/g' | sed 's/^.*id="\([^"]*\).*secret="\([^"]*\).*server="\([^"]*\).*farm="\([^"]*\).*$/https:\/\/farm\4.staticflickr.com\/\3\/\1_\2.jpg/' > "Asthma""Photos.txt"
