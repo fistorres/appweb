@@ -1,0 +1,254 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="uri"/>
+  <variable name="name"/>
+  <variable name="image"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Apraxia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Apraxia</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Apraxia_001.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Complex_regional_pain_syndrome</uri></binding>
+   <binding name="name"><literal xml:lang="en">Complex regional pain syndrome</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Complex_regional_pain_syndrome.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Convulsion</uri></binding>
+   <binding name="name"><literal xml:lang="en">Convulsion</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Nude_woman_sitting_with_artificially_induced_convulsions_(rbm-QP301M8-1887-545).jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Dementia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Dementia</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer&#39;s_disease_brain_comparison.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Encephalitis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Encephalitis</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Hsv_encephalitis.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Transverse_myelitis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Transverse myelitis</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Transverse_myelitis_MRI.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Agnosia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Agnosia</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Nuvola_apps_interrogation_blue.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Dystonia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Dystonias</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Dystonia2010.JPG</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Charcot–Marie–Tooth_disease</uri></binding>
+   <binding name="name"><literal xml:lang="en">Charcot–Marie–Tooth disease</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Charcot-marie-tooth_foot.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Creutzfeldt–Jakob_disease</uri></binding>
+   <binding name="name"><literal xml:lang="en">Creutzfeldt&amp;ndash;Jakob disease</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/VCJD_Tonsil.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Dyslexia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Dyslexia</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/OpenDyslexic.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Epilepsy</uri></binding>
+   <binding name="name"><literal xml:lang="en">Epilepsy</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Spike-waves.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Epileptic_seizure</uri></binding>
+   <binding name="name"><literal xml:lang="en">Epileptic seizure</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Spike-waves.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Expressive_aphasia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Expressive aphasia</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/BrocasAreaSmall.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Idiopathic_intracranial_hypertension</uri></binding>
+   <binding name="name"><literal xml:lang="en">Idiopathic intracranial hypertension</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/MRI_brain.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Migraine</uri></binding>
+   <binding name="name"><literal xml:lang="en">Migraine</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Migraine.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Motor_neuron_disease</uri></binding>
+   <binding name="name"><literal xml:lang="en">Motor neuron disease</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Polio_spinal_diagram.PNG</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Myasthenia_gravis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Myasthenia gravis</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/DiplopiaMG1.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Optic_neuritis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Optic neuritis</literal></binding>
+   <binding name="image"><uri>http://en.wikipedia.org/wiki/Special:FilePath/OpticNeuritisExample.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Poliomyelitis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Poliomyelitis</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Polio_lores134.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Aura_(symptom)</uri></binding>
+   <binding name="name"><literal xml:lang="en">Aura</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Migraine_aura.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Dementia_with_Lewy_bodies</uri></binding>
+   <binding name="name"><literal xml:lang="en">Dementia with Lewy bodies</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Lewy_Koerperchen.JPG</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Locked-in_syndrome</uri></binding>
+   <binding name="name"><literal xml:lang="en">Locked-in syndrome</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/CerebellumArteries.svg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Neuroleptic_malignant_syndrome</uri></binding>
+   <binding name="name"><literal xml:lang="en">Neuroleptic malignant syndrome</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Haloperidol_(Haldol).jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Ptosis_(eyelid)</uri></binding>
+   <binding name="name"><literal xml:lang="en">Ptosis of the eyelids</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/1852_ptosis_patient.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Vitamin_B12_deficiency</uri></binding>
+   <binding name="name"><literal xml:lang="en">Vitamin B12 deficiency</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Cyanocobalamin.svg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Tuberous_sclerosis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Tuberous sclerosis complex</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Patient_with_facial_angiofibromas_caused_by_tuberous_sclerosis.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Amyotrophic_lateral_sclerosis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Amyotrophic lateral sclerosis</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/ALS_Coronal.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Delirium_tremens</uri></binding>
+   <binding name="name"><literal xml:lang="en">Delirium tremens</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/An_alcoholic_man_with_delirium_Wellcome_L0060780.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Parkinson&#39;s_disease</uri></binding>
+   <binding name="name"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="image"><uri>http://en.wikipedia.org/wiki/Special:FilePath/Paralysis_agitans_(1907,_after_St._Leger).png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Stroke</uri></binding>
+   <binding name="name"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/MCA_Territory_Infarct.svg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Trigeminal_neuralgia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Trigeminal neuralgia</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Gray778.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Concussion</uri></binding>
+   <binding name="name"><literal xml:lang="en">Concussion</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Concussion_mechanics.svg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Alzheimer&#39;s_disease</uri></binding>
+   <binding name="name"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer&#39;s_disease_brain_comparison.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Cluster_headache</uri></binding>
+   <binding name="name"><literal xml:lang="en">Cluster headache</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Gray778.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Multiple_sclerosis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Multiple sclerosis</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/MS_Demyelinisation_CD68_10xv2.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/PANDAS</uri></binding>
+   <binding name="name"><literal xml:lang="en">PANDAS</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Streptococcus_pyogenes_01.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Tourette_syndrome</uri></binding>
+   <binding name="name"><literal xml:lang="en">Tourette syndrome</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Georges_Gilles_de_la_Tourette.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Guillain–Barré_syndrome</uri></binding>
+   <binding name="name"><literal xml:lang="en">Guillain–Barré syndrome</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Spirodoc_FVC.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Febrile_seizure</uri></binding>
+   <binding name="name"><literal xml:lang="en">Febrile seizure</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Clinical_thermometer_38.7.JPG</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Tension_headache</uri></binding>
+   <binding name="name"><literal xml:lang="en">Tension headache</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Tension-headache.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Meralgia_paraesthetica</uri></binding>
+   <binding name="name"><literal xml:lang="en">Meralgia paresthetica</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Gray826-LFC.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Chronic_traumatic_encephalopathy</uri></binding>
+   <binding name="name"><literal xml:lang="en">Chronic Traumatic Encephalopathy</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Chronic_Traumatic_Encephalopathy.png</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Lacunar_stroke</uri></binding>
+   <binding name="name"><literal xml:lang="en">Lacunar stroke</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Arteries_beneath_brain_Gray_closer.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Diplopia</uri></binding>
+   <binding name="name"><literal xml:lang="en">Diplopia</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Diplopia.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Beriberi</uri></binding>
+   <binding name="name"><literal xml:lang="en">Beriberi</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Beriberi_USNLM.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Peripheral_neuropathy</uri></binding>
+   <binding name="name"><literal xml:lang="en">Peripheral neuropathy</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Vasculitic_neuropathy_-_plastics_-_intermed_mag.jpg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Meningitis</uri></binding>
+   <binding name="name"><literal xml:lang="en">Meningitis</literal></binding>
+   <binding name="image"><uri>http://commons.wikimedia.org/wiki/Special:FilePath/Meninges-en.svg</uri></binding>
+  </result>
+  <result>
+   <binding name="uri"><uri>http://dbpedia.org/resource/Cataplexy</uri></binding>
+   <binding name="name"><literal xml:lang="en">Cataplexy</literal></binding>
+   <binding name="image"><uri>http://en.wikipedia.org/wiki/Special:FilePath/Simplified_brain_motor_circuit.jpg</uri></binding>
+  </result>
+ </results>
+</sparql>

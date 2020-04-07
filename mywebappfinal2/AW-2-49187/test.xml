@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>186920</Count><RetMax>10</RetMax><RetStart>0</RetStart><IdList>
+<Id>32220191</Id>
+<Id>32219806</Id>
+<Id>32219804</Id>
+<Id>32219409</Id>
+<Id>32219366</Id>
+<Id>32219224</Id>
+<Id>32219081</Id>
+<Id>32218789</Id>
+<Id>32218731</Id>
+<Id>32218222</Id>
+</IdList><TranslationSet><Translation>     <From>Asthma</From>     <To>"asthma"[MeSH Terms] OR "asthma"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"asthma"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>126345</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"asthma"[All Fields]</Term>    <Field>All Fields</Field>    <Count>186671</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>"asthma"[MeSH Terms] OR "asthma"[All Fields]</QueryTranslation></eSearchResult>

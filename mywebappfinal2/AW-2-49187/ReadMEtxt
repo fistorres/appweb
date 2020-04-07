@@ -1,0 +1,41 @@
+
+
+##### LINK #####
+http://appserver.alunos.di.fc.ul.pt/~aw49187/mywebapp.php
+
+
+Commands ran from /home/aw49187/public_html on the appserver.
+
+
+# Get all PubMedTitles from diseases.txt
+cat diseases.txt | xargs -I {} ./getPubMedTitles.sh {}
+
+
+# Get all Flickr photos from diseases.txt
+
+cat diseases.txt | xargs -I {} ./getFlickrPhotos.sh $(cat ./info/myKey) {}
+
+# Get all BDpedia photos associated with each disease in diseases.txt:
+cat diseases.txt | xargs -I {} ./getDBPediaPhotosbyName.sh {}
+
+### end of script diseases ###
+
+# Gets all BDpedia photos associated with the field Neurology and expands the diseases.txt file.
+./getDBPediaPhotosbyField.sh Neurology
+
+## get all wiki links and titles
+cat diseases.txt | xargs -I {} ./getWikiLinksTitles.sh {}
+
+
+# New files:
+getBDPediaPhotosbyName.sh
+getBDPediaPhotosbyField.sh
+curlQueryByField.sh
+
+# Minor changes in :
+# mywebapp.php (added DBPhotos)
+# getFlickrPhotos.sh (added '> "$2""Photos.txt"')
+# getPubMedTitles.sh (added '> "$1""Titles.txt"' and changed input to be one disease)
+
+
+
