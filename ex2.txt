@@ -7,10 +7,10 @@ cat diseases.txt | xargs -I {} ./getPubMedTitles.sh {}
 cat diseases.txt | xargs -I {} ./getFlickrPhotos.sh $(cat ./info/myKey) {}
 
 # Get all BDpedia photos associated with each disease in diseases.txt:
-cat diseases.txt | xargs -I {} ./getBDPediaPhotosbyName.sh {}
+cat diseases.txt | xargs -I {} ./getDBPediaPhotosbyName.sh {}
 
 # Gets all BDpedia photos associated with the fiel Neurology and expands the diseases.txt file.
-./getBDPediaPhotosbyField.sh Neurology
+./getDBPediaPhotosbyField.sh Neurology
 
 
 # I created the following files:
