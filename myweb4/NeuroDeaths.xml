@@ -1,0 +1,1096 @@
+<sparql xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="diseasename"/>
+  <variable name="personname"/>
+  <variable name="deathdate"/>
+  <variable name="occupationname"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Amyotrophic lateral sclerosis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Dennis Day</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1988-06-22</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Singer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Amyotrophic lateral sclerosis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Joe Albi</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1962-05-08</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Lawyer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Amyotrophic lateral sclerosis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">David Niven</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1983-07-29</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Epileptic seizure</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Rudi Dutschke</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1979-12-24</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Creutzfeldt–Jakob disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">George Balanchine</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1983-04-30</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Amyotrophic lateral sclerosis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Jon Stone</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-03-30</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ernest Gold (composer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1999-03-17</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Composer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Harold Gatty</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1957-08-30</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Navigator</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Harold Wertz</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1999-11-21</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Child actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Henry Irving</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1905-10-13</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Richie Powers</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-07-31</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">NBA</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andy Russell (singer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Vocalist</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andy Russell (singer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Percussionist</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andy Russell (singer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Television host</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andy Russell (singer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Nightclub</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andy Russell (singer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Radio</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andy Russell (singer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Television</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andy Russell (singer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Motion picture</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Jock Mahoney</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1989-12-14</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Stuntman</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">James Riely Gordon</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1937-03-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Architect</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Federico Fellini</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1993-10-31</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Screenwriter</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Federico Fellini</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1993-10-31</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Film director</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Juan Trippe</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1981-04-03</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Airline</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Robert Strauss (actor)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1975-02-20</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">William Dozier</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-04-23</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Betty Lou Gerson</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1999-01-12</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Voice actress</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Don Messick</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-10-24</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Voice actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Mary Miles Minter</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1984-08-04</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Amanda Randolph</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1967-08-24</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actress</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Dana Hill</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1996-07-15</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actress</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">R. G. LeTourneau</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1969-06-01</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Philanthropist</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">R. G. LeTourneau</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1969-06-01</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Inventor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">R. G. LeTourneau</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1969-06-01</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Business magnate</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">R. G. LeTourneau</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1969-06-01</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Earthmoving equipment</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">August Belmont IV</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1995-07-10</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Investment banker</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ewing Mitchell</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1988-09-03</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Character actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ewing Mitchell</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1988-09-03</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Rancher</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">George B. Selden</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1922-01-17</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Inventor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Lillian Disney</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-12-16</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Ink</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Bert Thomas</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1966-09-06</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Cartoonist</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Tomoyuki Tanaka</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-02</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Film producer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Larry Fine</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1975-01-24</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Comedian</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Larry Fine</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1975-01-24</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Larry Fine</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1975-01-24</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Boxer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Arthur Lowe</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1982-04-15</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vivian Dandridge</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-10-21</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Dancer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vivian Dandridge</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-10-26</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Dancer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vivian Dandridge</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-10-21</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Singer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vivian Dandridge</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-10-26</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Singer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vivian Dandridge</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-10-21</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actress</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vivian Dandridge</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-10-26</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actress</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">John Adelbert Davis</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1934-03-17</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Educator</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">W. D. Workman, Jr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1990-11-23</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Journalist</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">W. D. Workman, Jr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1990-11-23</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">The State (newspaper)</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">W. D. Workman, Jr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1990-11-23</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">News and Courier</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vladimir Sokoloff</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1962-02-15</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Elinor Morgenthau</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1949-09-21</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">George O&#39;Hanlon</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1989-02-11</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Jeanette Nolan</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-06-05</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Jack Bickell</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1951-08-22</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Fred Davis (broadcaster)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1996-07-05</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Sebastian Cabot (actor)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1977-08-22</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">William Boyd (actor)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1972-09-12</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">A. Roy Knabenshue</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1960-03-06</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Milton Prell</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1974-06-02</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">E. E. Cummings</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1962-09-03</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">L. Ron Hubbard</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1986-01-24</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Michael Redgrave</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1985-03-21</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Cliff Arquette</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1974-09-23</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ferdy Mayne</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-01-30</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Edward Sims Van Zile</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1931-05-29</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Edith Luckett Davis</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1987-10-26</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Edith Luckett Davis</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1987-10-27</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Billy Gilbert</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1971-09-23</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Diana Lynn</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1971-12-18</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Elisha Cook Jr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1995-05-18</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ellen Corby</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1999-04-14</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">June Marlowe</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1984-03-10</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Whit Bissell</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1996-03-05</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">William Frank Buckley Sr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1958-10-05</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Thomas F. Anderson</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-08-11</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Lucy Foster Madison</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1932-03-16</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Alexis Minotis</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1990-11-11</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">John H. Sengstacke</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-05-28</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Erastus Wiman</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1904-02-09</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Polly Bemis</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1933-11-06</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Peter Lorre</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1964-03-23</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ahn Sahng-hong</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1985-02-25</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Raúl Juliá</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1994-10-24</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Raúl Juliá</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1995-10-24</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Kenneth More</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1982-07-12</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Madame Sul-Te-Wan</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1959-02-01</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Catherine Calvert</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1971-01-18</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Joseph Peter Grace, Sr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1950-07-15</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Muriel Landers</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1977-02-19</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Irene Tedrow</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1995-03-10</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Nathan Bedford Forrest II</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1931-03-13</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">William Bell Dinsmoor</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1973-07-02</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">William M. Hadley</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-06-29</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Amy Elizabeth du Pont</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1962-02-16</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Carl Laemmle Jr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1979-09-24</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Jerome Robbins</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-07-29</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Richard Basehart</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1984-09-17</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Luisa Casati</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1957-06-01</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Walter Jenkins</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1985-11-23</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Walter Catlett</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1960-11-14</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Edna Kramer</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1984-07-09</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Hollis B. Chenery</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1994-09-01</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Parkinson&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Vijaygupta Maurya</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-07-10</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Jack Kelly (actor)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-11-07</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Marcel Bozzuffi</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1988-02-02</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Otis Harlan</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1940-01-21</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Catherine Dale Owen</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1965-09-07</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Adolphus C. Bartlett</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1922-06-01</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Philanthropist</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Adolphus C. Bartlett</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1922-06-01</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Business magnate</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Frederic Clay Bartlett</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1953-06-25</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Art collector</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ryōichi Sasakawa</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1995-07-18</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Sports administrator</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ryōichi Sasakawa</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1995-07-18</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Business</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Carlos Marcello</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1993-03-02</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">New Orleans crime family</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Hetty Green</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1916-07-03</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Financier</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Matthew Beard (American actor)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1981-01-08</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Child actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Matthew Beard (American actor)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1981-01-08</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actor</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Bohumil Makovsky</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1950-06-12</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Music director</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">James W. Horne</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1942-06-29</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Film director</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Blanche Sweet</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1986-09-06</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Actress</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Neil S. McCarthy</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1972-07-25</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Lawyer</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Neil S. McCarthy</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1972-07-25</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Horse breeder</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Theodore Wilson</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-07-21</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Malcolm Knowles</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-11-27</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Herbert Anderson</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1994-06-11</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Miriam Cooper</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1976-04-12</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Slim Summerville</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1946-01-05</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">William L. Lyons</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1911-06-02</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Walter Clarence Thornton</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1990-05-14</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Wirt Williams</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1986-06-29</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Einstein family</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1920-02-20</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Einstein family</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1902-10-10</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Einstein family</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1965-10-25</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Einstein family</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1951-06-25</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Einstein family</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1903-09-18</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Taufiq Rafat</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-08-02</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Fred W. Friendly</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-03-03</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">James Laughlin</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-11-12</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Clegg Hoyt</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1967-10-06</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Verna Felton</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1966-12-14</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Archibald Roosevelt</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1979-10-13</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Don Wilson (announcer)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1982-04-25</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Hugh E. Rodham</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1993-04-07</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Richard X. Slattery</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-01-27</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">John Beal (actor)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-04-26</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Martin Balsam</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1996-02-13</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Charles Garry</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1991-10-16</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Walter Connolly</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1940-05-28</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Joseph Humphreys</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1936-07-10</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Andrew J. Aikens</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1909-01-22</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Stroke</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Dana Olden Baldwin</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1972-11-09</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Janet Lee Bouvier</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1989-07-22</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Socialite</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Bill Ballantine (illustrator)</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1999-05-19</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Circus clown</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Jean Hazlewood</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-03-02</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">Screenwriter</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Marion Cox</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1996-10-13</literal></binding>
+   <binding name="occupationname"><literal xml:lang="en">NASCAR</literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Otto Preminger</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1986-04-23</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Molly Picon</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-05</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Arthur O&#39;Connell</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1981-05-18</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Burgess Meredith</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-09-09</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Godfrey Quigley</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1994-09-07</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Catherine Scorsese</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-01-06</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Penn Jones, Jr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-01-25</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">William L. Snyder</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1998-06-03</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Ruth U. Keeton</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1997-12-14</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Edmond O&#39;Brien</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1985-05-09</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Multiple sclerosis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Margaret Leighton</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1976-01-13</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Guillain–Barré syndrome</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Norton Simon</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1993-06-02</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Harlan D. Logan</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1994-12-16</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Rita Hayworth</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1987-05-14</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Bill France Sr.</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1992-06-07</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Alzheimer&#39;s disease</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Mabel Albertson</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1982-09-28</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Meningitis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Unity Mitford</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1948-05-28</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Meningitis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Benedict Wallet Vilakazi</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1947-10-26</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Meningitis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Roy Engel</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1980-09-29</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Meningitis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Lady Cynthia Asquith</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1960-03-31</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+  <result>
+   <binding name="diseasename"><literal xml:lang="en">Meningitis</literal></binding>
+   <binding name="personname"><literal xml:lang="en">Stephen J. Hay</literal></binding>
+   <binding name="deathdate"><literal datatype="http://www.w3.org/2001/XMLSchema#date">1916-02-29</literal></binding>
+   <binding name="occupationname"><literal> </literal></binding>
+  </result>
+ </results>
+</sparql>

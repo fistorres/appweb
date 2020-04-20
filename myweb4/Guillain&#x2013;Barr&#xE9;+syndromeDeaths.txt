@@ -1,0 +1,2 @@
+Person,Date,Occupation
+Norton Simon,1993-06-02,

@@ -1,0 +1,2 @@
+Person,Date,Occupation
+Rudi Dutschke,1979-12-24,

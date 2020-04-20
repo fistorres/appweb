@@ -1,0 +1,19 @@
+Person,Date,Occupation
+Janet Lee Bouvier,1989-07-22,Socialite
+Bill Ballantine (illustrator),1999-05-19,Circus clown
+Jean Hazlewood,1997-03-02,Screenwriter
+Marion Cox,1996-10-13,NASCAR
+Otto Preminger,1986-04-23,
+Molly Picon,1992-04-05,
+Arthur O'Connell,1981-05-18,
+Burgess Meredith,1997-09-09,
+Godfrey Quigley,1994-09-07,
+Catherine Scorsese,1997-01-06,
+Penn Jones, Jr.,1998-01-25,
+William L. Snyder,1998-06-03,
+Ruth U. Keeton,1997-12-14,
+Edmond O'Brien,1985-05-09,
+Harlan D. Logan,1994-12-16,
+Rita Hayworth,1987-05-14,
+Bill France Sr.,1992-06-07,
+Mabel Albertson,1982-09-28,

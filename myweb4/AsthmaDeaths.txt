@@ -1,0 +1,6 @@
+Person,Date,Occupation
+Amadeu Vives i Roig,1932-12-02,Writer
+Amadeu Vives i Roig,1932-12-02,Composer
+Sh&#x16B;mei &#x14C;kawa,1957-12-24,Islamic scholar
+Neil Hamilton (actor),1984-09-24,
+Mary Dimmick Harrison,1948-01-05,
