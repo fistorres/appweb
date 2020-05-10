@@ -1,0 +1,20 @@
+curl -X GET -H "Accept: application/json" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/32207704/"
+
+
+curl -X GET -H "Accept: text/html" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/rest/article/"
+curl -X GET -H "Accept: application/json" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/rest/article/"
+curl -X GET -H "Accept: application/xml" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/rest/article/"
+
+curl -X GET -H "Accept: text/html" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/32207704/"
+curl -X GET -H "Accept: application/json" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/32207704/"
+curl -X GET -H "Accept: application/xml" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/32207704/"
+
+
+
+curl -X POST -H "Accept: text/html" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/rank/32207704/downvote/"
+
+curl -X POST -H "Accept: text/html" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/rank/32207704/+/"
+
+curl -X GET -H "Accept: text/html" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/rank/32207704/"
+curl -X GET -H "Accept: application/json" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/rank/32207704/"
+curl -X GET -H "Accept: application/xml" -L "http://appserver.alunos.di.fc.ul.pt/~aw49187/ex5/article/rank/32207704/"
